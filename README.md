@@ -1,4 +1,4 @@
-# Microlab
+# CPU Expansion
  A task from the subject Computer Organization.
 
 The subject consisted on modifing the given CPU and it's assembler. The next modifications where made to the arquitecture:
